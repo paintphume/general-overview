@@ -1,0 +1,97 @@
+<!--
+File Name: dhtml2.htm
+Date: 03/3/12
+Programmer: Fiona Solliday
+-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<link rel = "stylesheet" type = "text/css" href = "styles/dhtml1.css" />
+<script type = "text/javascript" src = "javascript/dhtml2.js">
+</script>
+<title>DHTML 2</title>
+
+</head>
+  
+<body>
+
+<h2>DHTML Examples</h2>
+
+<span id="morpho">Morpho Butterfly</span>
+
+<p></p>
+
+<span id = "example1">
+1. Change text color on mouseover
+</span>
+<p></p>
+
+<span id = "example2">
+2. Change text color on mouseover, change back on mouseout
+</span>
+
+<p></p>
+
+<span id = "example3">
+3. Change text color and background color at the same time, change back
+</span>
+
+<p></p>
+
+<span id = "example4">
+4. Double the text size to 2em on click, change back to 1em on double-click
+</span>
+
+<p></p>
+
+5. Add a 2 pixel, solid, blue border to the image when you mouse over it. Remove the border when you mouse out.
+<br />
+
+<img src="images/butterfly.gif" id="butterfly" alt="Morpho Butterfly"/>
+
+<p></p>
+
+<span id = "hideText">
+6. Hide text on click
+</span>
+
+<p></p>
+
+<span id = "displayText">
+7. Display text above again on click
+</span>
+
+<p></p>
+
+Form: Change border of text box onfocus, remove border onblur
+
+<p></p>
+
+<form action="">
+<span id = "fullName">
+8. Full Name: <input type="text" name="fullName" size="25" />
+<br />
+</span>
+
+<span id = "address">
+9. Address: <input type="text" name="address" size="30"/>
+</span>
+
+<p></p>
+
+<span id ="button1">
+<input type="button" value="Click me to hide the Butterfly!"/>
+</span>
+<br />
+
+<span id = "button2">
+<input type="button" value="Click me to show the Butterfly!"/>
+</span>
+</form>
+
+</body>
+
+</html>
