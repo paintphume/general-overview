@@ -1,0 +1,26 @@
+/*
+File Name: dhtml1.css
+Date: 03/2012
+Programmer: Fiona Solliday
+*/
+
+body {
+  background-color: lightgrey;
+}
+
+
+h2 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+#butterfly {
+	position: absolute;
+	top: 50px;
+	right: 50px;
+}
+
+#morpho {
+	position: absolute;
+	top: 180px;
+	right: 55px;
+}
