@@ -9,8 +9,8 @@ Programmer: Fiona Solliday
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-<link rel = "stylesheet" type = "text/css" href = "styles/dhtml1.css" />
-<script type = "text/javascript" src = "javascript/dhtml2.js">
+<link rel = "stylesheet" type = "text/css" href = "dhtml1.css" />
+<script type = "text/javascript" src = "dhtml2.js">
 </script>
 <title>DHTML 2</title>
 
